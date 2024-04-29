@@ -1,4 +1,4 @@
-<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Network_Fundamentals/assets/140537888/8418fa9f-50b7-486b-9a42-9784e664ad02">## Smruf Attack
+## SMRUF ATTACK
 
 A Smurf attack is a distributed denial-of-service (DDoS) attack in which an attacker attempts to flood a targeted server with Internet Control Message Protocol (ICMP) packets.
 
